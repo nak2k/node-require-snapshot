@@ -1,0 +1,25 @@
+{
+  "name": "require-snapshot",
+  "version": "0.0.1",
+  "description": "Snapshot require.cache",
+  "author": "Kengo Nakatsuka <kengo.nakatsuka@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/nak2k/node-require-snapshot/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "homepage": "https://github.com/nak2k/node-require-snapshot",
+  "keywords": [
+    "require"
+  ],
+  "files": [
+    "index.js",
+    "README.md"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nak2k/node-require-snapshot.git"
+  },
+  "scripts": {}
+}
